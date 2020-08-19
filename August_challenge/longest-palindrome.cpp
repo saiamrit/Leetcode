@@ -1,4 +1,4 @@
-//  https://leetcode.com/problems/longest-palindrome/discuss/793146/C%2B%2B-Map-with-explanation
+//   https://leetcode.com/problems/longest-palindrome/discuss/793146/C%2B%2B-Map-with-explanation
 class Solution {
 public:
     int longestPalindrome(string s) {
